@@ -1,4 +1,26 @@
+---
+title: Transcript of interview to Peter Norvig by Lex Fridman
+author: Alfonso R. Reyes
+date: 2019-09-30
+categories: [ai, artificial intelligence, transcript]
+output: 
+  pdf_document: 
+    highlight: pygments
+    toc: yes
+    toc_depth: 4
+urlcolor: blue    
+typora-copy-images-to: ./assets
+
+---
+
+
+
 # Transcript of interview to Peter Norvig by Lex Fridman
+
+
+![image-20200420150616654](assets/image-20200420150616654.png)
+
+
 
 ## Peter Norvig: Artificial Intelligence: A Modern Approach | Artificial Intelligence (AI) Podcast | Sep 30, 2019
 
@@ -18,7 +40,7 @@ The following is a conversation with Peter Norvig. He's a director of [Research 
 
 **[Lex]** Most researchers in the AI community, including myself, own all three editions, red green and blue, of the ["Artificial intelligence: A modern approach"](), the field defining textbook, as many people are aware, that you wrote with [Stuart Russell](). How has the book changed? And how have you changed in relation to it from the first edition to the second, to the third, and now fourth edition as you work on it?
 
-**[Peter]** Yeah. So, it's been a lot of years, a lot of changes. One of the things changing from the first to maybe the second or third was just the rise of computing power, right? So, I think in the in the First Edition we said: here's predicate logic but that only goes so far because pretty soon you have millions of short little medical expressions and they can possibly fit in memory, so we're gonna use first-order logic that's more concise. And then we quickly realized: Oh, predicate logic is pretty nice because there are really fast Sat solvers and other things and look there's only millions of expressions and that fits easily into memory, or maybe even billions fit into memory now. So, that was a change of the type of technology we needed just because the hardware expanded.
+**[Peter]** Yeah. So, it's been a lot of years, a lot of changes. One of the things changing from the first to, maybe the second, or third was just the rise of computing power, right? So, I think in the in the First Edition we said: "here's predicate logic but that only goes so far because pretty soon you have millions of short little medical expressions and they can possibly fit in memory, so we're gonna use first-order logic that's more concise." And then we quickly realized: "Oh, predicate logic is pretty nice because there are really fast Sat solvers and other things and look there's only millions of expressions and that fits easily into memory, or maybe even billions fit into memory now." So, that was a change of the type of technology we needed just because the hardware expanded.
 
 **[Lex]** Even to the second edition resource constraints from loosened significantly?
 

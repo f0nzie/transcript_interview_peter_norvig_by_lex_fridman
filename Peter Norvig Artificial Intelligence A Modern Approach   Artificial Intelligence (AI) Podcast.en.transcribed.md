@@ -12,8 +12,9 @@ urlcolor: blue
 typora-copy-images-to: ./assets
 ---
 
-# Transcript of interview to Peter Norvig by Lex Fridman
 
+
+# Transcript of interview to Peter Norvig by Lex Fridman
 
 
 ![image-20200420150616654](assets/image-20200420150616654.png)
