@@ -296,7 +296,7 @@ The following is a conversation with Peter Norvig. He's a director of [Research 
 
 **[Lex]** And did you find, I assume with the popularity and the growth of the Internet, that people were creating new content, so you're almost helping guide the creation?
 
-**[Peter]** Yeah. So that's certainly true, right? So, we definitely changed the structure of the network, right? So, if you think back, in the very early days, [Larry]() and [Sergey]() had the [PageRank paper](), and [John Kleinberg]() had these hubs and authorities model, which says "the web is made out of these hubs, which will be my page of cool links about dogs or whatever. And people would just list links, and then there'd be authorities, which were the ones the page about dogs that most people link to." That doesn't happen anymore. People don't bother to say "my page of cool links", because we took over that function, right? So, we changed the way that works.
+**[Peter]** Yeah. So, that's certainly true, right? So, we definitely changed the structure of the network, right? So, if you think back, in the very early days, [Larry]() and [Sergey]() had the [PageRank paper](), and [John Kleinberg]() had these hubs and authorities model, which says "the web is made out of these hubs, which will be my page of cool links about dogs or whatever. And people would just list links, and then there'd be authorities, which were the ones the page about dogs that most people link to." That doesn't happen anymore. People don't bother to say "my page of cool links", because we took over that function, right? So, we changed the way that works.
 
 ### Internet
 
@@ -304,7 +304,7 @@ The following is a conversation with Peter Norvig. He's a director of [Research 
 
 **[Peter]** Yeah, it's always been surprising to me. I guess, I'm not very good at predicting the future. And I remember being a graduate student in 1980 or so, and we had the ARPANET. And then, there was this proposal to commercialize it, and have this Internet. And this crazy Senator Gore thought that might be a good idea. And I remember thinking "Oh, come on! You can't expect a commercial company to understand this technology. They'll never be able to do it! We can have this dot-com domain but it won't go anywhere." So I was wrong, Al Gore was right.
 
-**[Lex]** At the same time, the nature of what it means to be a commercial company has changed too. So, Google at its founding is different than ... what companies were before, I think.*
+**[Lex]** At the same time, the nature of what it means to be a commercial company has changed too. So, Google at its founding is different than ... what companies were before, I think.
 
 **[Peter]** Right. So, there's all these business models that are so different than what was possible back then.
 
@@ -328,17 +328,17 @@ The following is a conversation with Peter Norvig. He's a director of [Research 
 
 **[Peter]** Yeah. And, certainly, if you can get to dog level, a lot of people have just a lot of love in their pets ...
 
-**[Lex]** ... in their pets. Some people, as I've been told, working with autonomous vehicles have invested a lot of love into their inanimate cars. So, it really doesn't take much. What is a good test, to linger on a topic that may be silly or a little bit philosophical, what is a good test of intelligence? Is natural conversation, like in the Turing test? Is it a good test? Put in another way, what would impress you if you saw a computer do it these days?
+**[Lex]** ... in their pets. Some people, as I've been told, working with autonomous vehicles have invested a lot of love into their inanimate cars. So, it really doesn't take much. What is a good test, to linger on a topic that may be silly or a little bit philosophical, what is a good test of intelligence? Is natural conversation, like in the [Turing test]()? Is it a good test? Put in another way, what would impress you if you saw a computer do it these days?
 
 ### What would Alan Turing say today
 
-**[Peter]** Yeah. I get impressed all the time: Go playing, Starcraft playing. Those are all pretty cool. And I think short conversation is important. I think we sometimes have these tests where it's easy to fool the system, where you can have a chat-bot that can have a conversation. But it never gets into a situation where has to be deep enough that it really reveals itself as being intelligent or not. I think Turing suggested that. But I think if he were alive he'd say "I didn't really mean that seriously", right? I think, this is just my opinion, but I think Turing's point was not that this test of conversation is a good test. I think his point was having a test is the right thing. So, rather than having the philosopher say "oh, no. AI is impossible", you should say "well, we'll just have a test, and then the result of that will will tell us the answer." And it doesn't necessarily have to be a conversation test.
+**[Peter]** Yeah. I get impressed all the time: [Go]() playing, [Starcraft]() playing. Those are all pretty cool. And I think short conversation is important. I think we sometimes have these tests where it's easy to fool the system, where you can have a chat-bot that can have a conversation. But it never gets into a situation where has to be deep enough that it really reveals itself as being intelligent or not. I think Turing suggested that. But I think if he were alive he'd say "I didn't really mean that seriously", right? I think, this is just my opinion, but I think Turing's point was not that this test of conversation is a good test. I think his point was having a test is the right thing. So, rather than having the philosopher say "oh, no. AI is impossible", you should say "well, we'll just have a test, and then the result of that will will tell us the answer." And it doesn't necessarily have to be a conversation test.
 
 ### Threats of AI
 
 **[Lex]** That's right. ==[ininteligible]== a test as the technology evolves is probably the right way. Do you worry, as a lot of the general public does about, not a lot, but some vocal part of the general public, about the existential threat of artificial intelligence? So, looking farther into the future, as you said, most of us are not able to predict much, when shrouded in such a mystery, there's a concern in them. If you think starting about a worst case, is that something that occupies your mind space much?
 
-**[Peter]** I certainly think about threats. I think about dangers and I think any new technology has positives and negatives. And if it's a powerful technology, it can be used for bad as well as for good. So, I'm certainly not worried about the robot apocalypse ["Terminator"]() type scenarios. I am worried about change in employment, and how are we gonna be able to react fast enough to deal with that. I think we're already seeing it today where a lot of people are disgruntled about the way [income inequality]() is working. And automation could help accelerate those kinds of problems. I see powerful technologies can always be used as weapons, whether they're robots, or drones, or whatever. Some of that we're seeing do AI; a lot of it you don't need AI. I don't know what's a worse threat: if it's autonomous drone, or if it is CRISPR technology becoming available. We have lots of threats to face, and some of them involve AI, and some of them, don't.
+**[Peter]** I certainly think about threats. I think about dangers, and I think any new technology has positives and negatives. And if it's a powerful technology, it can be used for bad as well as for good. So, I'm certainly not worried about the robot apocalypse ["Terminator"]() type scenarios. I am worried about change in employment, and how are we gonna be able to react fast enough to deal with that. I think we're already seeing it today where a lot of people are disgruntled about the way [income inequality]() is working. And automation could help accelerate those kinds of problems. I see powerful technologies can always be used as weapons, whether they're robots, or drones, or whatever. Some of that we're seeing do AI; a lot of it you don't need AI. I don't know what's a worse threat: if it's autonomous drone, or if it is [CRISPR]() technology becoming available. We have lots of threats to face, and some of them involve AI, and some of them, don't.
 
 **[Lex]** So, the threats that technology presents, are you for the most part optimistic about technology, also alleviating those threats, or creating new opportunities, or protecting us from the more detrimental effects of ...?
 
@@ -370,7 +370,11 @@ The following is a conversation with Peter Norvig. He's a director of [Research 
 
 ## Links
 
-
+*   Podcast: https://lexfridman.com/peter-norvig/
+*   Video: https://www.youtube.com/watch?v=_VPxEcT_Adc&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4
+*   Transcript in GitHub: https://github.com/f0nzie/transcript_interview_peter_norvig_by_lex_fridman
+*   Transcript in LinkedIn: https://www.linkedin.com/pulse/transcript-interview-peter-norvig-lex-fridman-alfonso-r-reyes/
+*   Tweet: 
 
 ## Toolbox
 
