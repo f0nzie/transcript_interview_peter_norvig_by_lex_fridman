@@ -380,7 +380,7 @@ The following is a conversation with Peter Norvig. He's a director of [Research 
 
 Software used by Alfonso R. Reyes to create this transcript:
 
-*   Typora: https://www.typora.io/
+*   Markdown Editor: [Typora](https://www.typora.io/)
 
 *   Text Editor and Git: [Visual Studio Code](https://code.visualstudio.com/)
 
