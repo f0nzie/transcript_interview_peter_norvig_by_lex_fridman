@@ -378,14 +378,18 @@ The following is a conversation with Peter Norvig. He's a director of [Research 
 
 ## Toolbox
 
-Software utilities used for this transcript.
+Software used by Alfonso R. Reyes to create this transcript:
 
 *   Typora: https://www.typora.io/
 
-*   GitHub: https://github.com/
+*   Text Editor and Git: [Visual Studio Code](https://code.visualstudio.com/)
 
-*   TextFixer: https://www.textfixer.com/tools/remove-line-breaks.php
+*   Repository: [GitHub](https://github.com/)
 
-*   4K Video Downloader: https://www.4kdownload.com/products/product-videodownloader
+*   YouTube video downloader: [4K Video Downloader](https://www.4kdownload.com/products/product-videodownloader)
 
-*   SubTitle Edit: https://www.videohelp.com/software/Subtitle-Edit
+*   Extract subtitles: [SubTitle Edit](https://www.videohelp.com/software/Subtitle-Edit)
+
+*   Internet browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
+*   Operating System: [Debian 10](https://www.debian.org/News/2019/20190706)
